@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Pacifico&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #087bb0;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #ffffff;
+    /* background-color: #3b8fd3; */
+    text-decoration: underline;
+    text-align: center;
+}
+
+.about {
+    font-family: "Baloo Bhai 2", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: white;
+    outline: 5px solid #100263;
+    border-radius: 2px;
+    border: 2px solid black;
+    width: 60%;
+    padding: 20px;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    /* Image aur text ke beech ka gap */
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.contact {
+    margin: 100px 0px 0px 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
