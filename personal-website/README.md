@@ -18,6 +18,8 @@ It includes a simple layout with my introduction, image, and contact details.
 * Styling using CSS
 * Flexbox for layout
 * How to push code on GitHub
+* CSS overflow property
+* Improving layout and footer design
 
 ## 🔧 Future Improvements
 
@@ -36,4 +38,4 @@ personal-website/
 
 ## 📈 Status
 
-This is version 1 (v1). I will keep improving it step by step.
+This is version 2 (v2) with improved layout and overflow handling.
