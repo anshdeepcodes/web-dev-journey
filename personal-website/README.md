@@ -38,4 +38,4 @@ personal-website/
 
 ## 📈 Status
 
-This is version 2 (v2) with improved layout and overflow handling.
+This is version2 (v2) with improved layout and overflow handling.
